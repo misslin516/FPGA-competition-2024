@@ -1,0 +1,1026 @@
+##### Written on 2024/11/09 13:46:23 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	top5
+
+Constraint File(s) : 
+	C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 39 critical warning(s), 205 warning(s), out of 1473 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+define_attribute {p:b_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 504)] PAP_IO_DIRECTION is already defined in p:b_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_LOC} {P19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 505)] PAP_IO_LOC is already defined in p:b_out[7], new value P19 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 506)] PAP_IO_VCCIO is already defined in p:b_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 507)] PAP_IO_STANDARD is already defined in p:b_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 508)] PAP_IO_DRIVE is already defined in p:b_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 509)] PAP_IO_NONE is already defined in p:b_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 510)] PAP_IO_SLEW is already defined in p:b_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 511)] PAP_IO_DIRECTION is already defined in p:b_out[6], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_LOC} {R19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 512)] PAP_IO_LOC is already defined in p:b_out[6], new value R19 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 513)] PAP_IO_VCCIO is already defined in p:b_out[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 514)] PAP_IO_STANDARD is already defined in p:b_out[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 515)] PAP_IO_DRIVE is already defined in p:b_out[6], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 516)] PAP_IO_NONE is already defined in p:b_out[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 517)] PAP_IO_SLEW is already defined in p:b_out[6], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 518)] PAP_IO_DIRECTION is already defined in p:b_out[5], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {R22}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 519)] PAP_IO_LOC is already defined in p:b_out[5], new value R22 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 520)] PAP_IO_VCCIO is already defined in p:b_out[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 521)] PAP_IO_STANDARD is already defined in p:b_out[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 522)] PAP_IO_DRIVE is already defined in p:b_out[5], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 523)] PAP_IO_NONE is already defined in p:b_out[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 524)] PAP_IO_SLEW is already defined in p:b_out[5], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 525)] PAP_IO_DIRECTION is already defined in p:b_out[4], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {R20}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 526)] PAP_IO_LOC is already defined in p:b_out[4], new value R20 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 527)] PAP_IO_VCCIO is already defined in p:b_out[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 528)] PAP_IO_STANDARD is already defined in p:b_out[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 529)] PAP_IO_DRIVE is already defined in p:b_out[4], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 530)] PAP_IO_NONE is already defined in p:b_out[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 531)] PAP_IO_SLEW is already defined in p:b_out[4], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 532)] PAP_IO_DIRECTION is already defined in p:b_out[3], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_LOC} {T22}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 533)] PAP_IO_LOC is already defined in p:b_out[3], new value T22 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 534)] PAP_IO_VCCIO is already defined in p:b_out[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 535)] PAP_IO_STANDARD is already defined in p:b_out[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 536)] PAP_IO_DRIVE is already defined in p:b_out[3], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 537)] PAP_IO_NONE is already defined in p:b_out[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 538)] PAP_IO_SLEW is already defined in p:b_out[3], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 546)] PAP_IO_DIRECTION is already defined in p:b_out[1], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_LOC} {V22}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 547)] PAP_IO_LOC is already defined in p:b_out[1], new value V22 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 548)] PAP_IO_VCCIO is already defined in p:b_out[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 549)] PAP_IO_STANDARD is already defined in p:b_out[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 550)] PAP_IO_DRIVE is already defined in p:b_out[1], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 551)] PAP_IO_NONE is already defined in p:b_out[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 552)] PAP_IO_SLEW is already defined in p:b_out[1], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 553)] PAP_IO_DIRECTION is already defined in p:b_out[0], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_LOC} {V21}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 554)] PAP_IO_LOC is already defined in p:b_out[0], new value V21 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 555)] PAP_IO_VCCIO is already defined in p:b_out[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 556)] PAP_IO_STANDARD is already defined in p:b_out[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 557)] PAP_IO_DRIVE is already defined in p:b_out[0], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 558)] PAP_IO_NONE is already defined in p:b_out[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 559)] PAP_IO_SLEW is already defined in p:b_out[0], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 560)] PAP_IO_DIRECTION is already defined in p:g_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_LOC} {L17}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 561)] PAP_IO_LOC is already defined in p:g_out[7], new value L17 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 562)] PAP_IO_VCCIO is already defined in p:g_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 563)] PAP_IO_STANDARD is already defined in p:g_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 564)] PAP_IO_DRIVE is already defined in p:g_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 565)] PAP_IO_NONE is already defined in p:g_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 566)] PAP_IO_SLEW is already defined in p:g_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 567)] PAP_IO_DIRECTION is already defined in p:g_out[6], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_LOC} {K20}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 568)] PAP_IO_LOC is already defined in p:g_out[6], new value K20 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 569)] PAP_IO_VCCIO is already defined in p:g_out[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 570)] PAP_IO_STANDARD is already defined in p:g_out[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 571)] PAP_IO_DRIVE is already defined in p:g_out[6], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 572)] PAP_IO_NONE is already defined in p:g_out[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 573)] PAP_IO_SLEW is already defined in p:g_out[6], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 574)] PAP_IO_DIRECTION is already defined in p:g_out[5], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_LOC} {L19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 575)] PAP_IO_LOC is already defined in p:g_out[5], new value L19 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 576)] PAP_IO_VCCIO is already defined in p:g_out[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 577)] PAP_IO_STANDARD is already defined in p:g_out[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 578)] PAP_IO_DRIVE is already defined in p:g_out[5], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 579)] PAP_IO_NONE is already defined in p:g_out[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 580)] PAP_IO_SLEW is already defined in p:g_out[5], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 581)] PAP_IO_DIRECTION is already defined in p:g_out[4], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_LOC} {N15}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 582)] PAP_IO_LOC is already defined in p:g_out[4], new value N15 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 583)] PAP_IO_VCCIO is already defined in p:g_out[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 584)] PAP_IO_STANDARD is already defined in p:g_out[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 585)] PAP_IO_DRIVE is already defined in p:g_out[4], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 586)] PAP_IO_NONE is already defined in p:g_out[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 587)] PAP_IO_SLEW is already defined in p:g_out[4], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 588)] PAP_IO_DIRECTION is already defined in p:g_out[3], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_LOC} {M16}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 589)] PAP_IO_LOC is already defined in p:g_out[3], new value M16 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 590)] PAP_IO_VCCIO is already defined in p:g_out[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 591)] PAP_IO_STANDARD is already defined in p:g_out[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 592)] PAP_IO_DRIVE is already defined in p:g_out[3], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 593)] PAP_IO_NONE is already defined in p:g_out[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 594)] PAP_IO_SLEW is already defined in p:g_out[3], new value FAST will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 616)] PAP_IO_DIRECTION is already defined in p:r_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_LOC} {H19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 617)] PAP_IO_LOC is already defined in p:r_out[7], new value H19 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 618)] PAP_IO_VCCIO is already defined in p:r_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 619)] PAP_IO_STANDARD is already defined in p:r_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 620)] PAP_IO_DRIVE is already defined in p:r_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 621)] PAP_IO_NONE is already defined in p:r_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 622)] PAP_IO_SLEW is already defined in p:r_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 665)] PAP_IO_DIRECTION is already defined in p:r_out[0], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_LOC} {K17}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 666)] PAP_IO_LOC is already defined in p:r_out[0], new value K17 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 667)] PAP_IO_VCCIO is already defined in p:r_out[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 668)] PAP_IO_STANDARD is already defined in p:r_out[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 669)] PAP_IO_DRIVE is already defined in p:r_out[0], new value 8 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 670)] PAP_IO_NONE is already defined in p:r_out[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 671)] PAP_IO_SLEW is already defined in p:r_out[0], new value FAST will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 682)] PAP_IO_DIRECTION is already defined in p:b_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_LOC} {AB16}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 683)] PAP_IO_LOC is already defined in p:b_in[5], new value AB16 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 684)] PAP_IO_VCCIO is already defined in p:b_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 685)] PAP_IO_STANDARD is already defined in p:b_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 686)] PAP_IO_NONE is already defined in p:b_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 692)] PAP_IO_DIRECTION is already defined in p:b_in[3], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_LOC} {W15}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 693)] PAP_IO_LOC is already defined in p:b_in[3], new value W15 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 694)] PAP_IO_VCCIO is already defined in p:b_in[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 695)] PAP_IO_STANDARD is already defined in p:b_in[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 696)] PAP_IO_NONE is already defined in p:b_in[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 707)] PAP_IO_DIRECTION is already defined in p:b_in[0], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_LOC} {U14}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 708)] PAP_IO_LOC is already defined in p:b_in[0], new value U14 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 709)] PAP_IO_VCCIO is already defined in p:b_in[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 710)] PAP_IO_STANDARD is already defined in p:b_in[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 711)] PAP_IO_NONE is already defined in p:b_in[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 712)] PAP_IO_DIRECTION is already defined in p:g_in[7], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_LOC} {W17}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 713)] PAP_IO_LOC is already defined in p:g_in[7], new value W17 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 714)] PAP_IO_VCCIO is already defined in p:g_in[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 715)] PAP_IO_STANDARD is already defined in p:g_in[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 716)] PAP_IO_NONE is already defined in p:g_in[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 717)] PAP_IO_DIRECTION is already defined in p:g_in[6], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_LOC} {Y18}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 718)] PAP_IO_LOC is already defined in p:g_in[6], new value Y18 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 719)] PAP_IO_VCCIO is already defined in p:g_in[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 720)] PAP_IO_STANDARD is already defined in p:g_in[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 721)] PAP_IO_NONE is already defined in p:g_in[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 722)] PAP_IO_DIRECTION is already defined in p:g_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {AB18}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 723)] PAP_IO_LOC is already defined in p:g_in[5], new value AB18 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 724)] PAP_IO_VCCIO is already defined in p:g_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 725)] PAP_IO_STANDARD is already defined in p:g_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 726)] PAP_IO_NONE is already defined in p:g_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 727)] PAP_IO_DIRECTION is already defined in p:g_in[4], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {AA18}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 728)] PAP_IO_LOC is already defined in p:g_in[4], new value AA18 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 729)] PAP_IO_VCCIO is already defined in p:g_in[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 730)] PAP_IO_STANDARD is already defined in p:g_in[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 731)] PAP_IO_NONE is already defined in p:g_in[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 732)] PAP_IO_DIRECTION is already defined in p:g_in[3], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {AB19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 733)] PAP_IO_LOC is already defined in p:g_in[3], new value AB19 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 734)] PAP_IO_VCCIO is already defined in p:g_in[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 735)] PAP_IO_STANDARD is already defined in p:g_in[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 736)] PAP_IO_NONE is already defined in p:g_in[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 742)] PAP_IO_DIRECTION is already defined in p:g_in[1], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {V17}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 743)] PAP_IO_LOC is already defined in p:g_in[1], new value V17 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 744)] PAP_IO_VCCIO is already defined in p:g_in[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 745)] PAP_IO_STANDARD is already defined in p:g_in[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 746)] PAP_IO_NONE is already defined in p:g_in[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 752)] PAP_IO_DIRECTION is already defined in p:r_in[7], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_LOC} {Y14}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 753)] PAP_IO_LOC is already defined in p:r_in[7], new value Y14 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 754)] PAP_IO_VCCIO is already defined in p:r_in[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 755)] PAP_IO_STANDARD is already defined in p:r_in[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 756)] PAP_IO_NONE is already defined in p:r_in[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 757)] PAP_IO_DIRECTION is already defined in p:r_in[6], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_LOC} {W14}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 758)] PAP_IO_LOC is already defined in p:r_in[6], new value W14 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 759)] PAP_IO_VCCIO is already defined in p:r_in[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 760)] PAP_IO_STANDARD is already defined in p:r_in[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 761)] PAP_IO_NONE is already defined in p:r_in[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 762)] PAP_IO_DIRECTION is already defined in p:r_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_LOC} {AB14}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 763)] PAP_IO_LOC is already defined in p:r_in[5], new value AB14 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 764)] PAP_IO_VCCIO is already defined in p:r_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 765)] PAP_IO_STANDARD is already defined in p:r_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 766)] PAP_IO_NONE is already defined in p:r_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_DIRECTION} {INPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 767)] PAP_IO_DIRECTION is already defined in p:r_in[4], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_LOC} {AA14}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 768)] PAP_IO_LOC is already defined in p:r_in[4], new value AA14 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 769)] PAP_IO_VCCIO is already defined in p:r_in[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 770)] PAP_IO_STANDARD is already defined in p:r_in[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 771)] PAP_IO_NONE is already defined in p:r_in[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DIRECTION} {INOUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 792)] PAP_IO_DIRECTION is already defined in p:iic_sda, new value INOUT will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {V20}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 793)] PAP_IO_LOC is already defined in p:iic_sda, new value V20 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 794)] PAP_IO_VCCIO is already defined in p:iic_sda, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 795)] PAP_IO_STANDARD is already defined in p:iic_sda, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 796)] PAP_IO_DRIVE is already defined in p:iic_sda, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 798)] PAP_IO_SLEW is already defined in p:iic_sda, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_DIRECTION} {INOUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 799)] PAP_IO_DIRECTION is already defined in p:iic_tx_sda, new value INOUT will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_LOC} {P18}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 800)] PAP_IO_LOC is already defined in p:iic_tx_sda, new value P18 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 801)] PAP_IO_VCCIO is already defined in p:iic_tx_sda, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 802)] PAP_IO_STANDARD is already defined in p:iic_tx_sda, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 803)] PAP_IO_DRIVE is already defined in p:iic_tx_sda, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 805)] PAP_IO_SLEW is already defined in p:iic_tx_sda, new value FAST will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 806)] PAP_IO_DIRECTION is already defined in p:de_out, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_LOC} {Y22}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 807)] PAP_IO_LOC is already defined in p:de_out, new value Y22 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 808)] PAP_IO_VCCIO is already defined in p:de_out, new value 3.3 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 809)] PAP_IO_STANDARD is already defined in p:de_out, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 810)] PAP_IO_DRIVE is already defined in p:de_out, new value 8 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 811)] PAP_IO_NONE is already defined in p:de_out, new value TRUE will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 812)] PAP_IO_SLEW is already defined in p:de_out, new value FAST will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 813)] PAP_IO_DIRECTION is already defined in p:hs_out, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_LOC} {Y21}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 814)] PAP_IO_LOC is already defined in p:hs_out, new value Y21 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 815)] PAP_IO_VCCIO is already defined in p:hs_out, new value 3.3 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 816)] PAP_IO_STANDARD is already defined in p:hs_out, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 817)] PAP_IO_DRIVE is already defined in p:hs_out, new value 8 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_NONE} {TRUE}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 818)] PAP_IO_NONE is already defined in p:hs_out, new value TRUE will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 819)] PAP_IO_SLEW is already defined in p:hs_out, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 820)] PAP_IO_DIRECTION is already defined in p:iic_scl, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {V19}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 821)] PAP_IO_LOC is already defined in p:iic_scl, new value V19 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 822)] PAP_IO_VCCIO is already defined in p:iic_scl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 823)] PAP_IO_STANDARD is already defined in p:iic_scl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 824)] PAP_IO_DRIVE is already defined in p:iic_scl, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 826)] PAP_IO_SLEW is already defined in p:iic_scl, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_DIRECTION} {OUTPUT}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 827)] PAP_IO_DIRECTION is already defined in p:iic_tx_scl, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_LOC} {P17}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 828)] PAP_IO_LOC is already defined in p:iic_tx_scl, new value P17 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_VCCIO} {3.3}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 829)] PAP_IO_VCCIO is already defined in p:iic_tx_scl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_STANDARD} {LVCMOS33}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 830)] PAP_IO_STANDARD is already defined in p:iic_tx_scl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_DRIVE} {8}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 831)] PAP_IO_DRIVE is already defined in p:iic_tx_scl, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_SLEW} {FAST}
+
+	W: ConstraintEditor-4026: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 833)] PAP_IO_SLEW is already defined in p:iic_tx_scl, new value FAST will overwrite the current value.
+
+define_attribute {p:sys_rst_n} {PAP_IO_LOC} {K18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 70)] | Port sys_rst_n has been placed at location K18, whose type is share pin.
+
+define_attribute {p:key55} {PAP_IO_LOC} {J19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 100)] | Port key55 has been placed at location J19, whose type is share pin.
+
+define_attribute {p:key66} {PAP_IO_LOC} {H20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 106)] | Port key66 has been placed at location H20, whose type is share pin.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {R22}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 519)] | Port b_out[5] has been placed at location R22, whose type is share pin.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {R20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 526)] | Port b_out[4] has been placed at location R20, whose type is share pin.
+
+define_attribute {p:g_out[7]} {PAP_IO_LOC} {L17}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 561)] | Port g_out[7] has been placed at location L17, whose type is share pin.
+
+define_attribute {p:g_out[6]} {PAP_IO_LOC} {K20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 568)] | Port g_out[6] has been placed at location K20, whose type is share pin.
+
+define_attribute {p:g_out[5]} {PAP_IO_LOC} {L19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 575)] | Port g_out[5] has been placed at location L19, whose type is share pin.
+
+define_attribute {p:r_out[7]} {PAP_IO_LOC} {H19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 617)] | Port r_out[7] has been placed at location H19, whose type is share pin.
+
+define_attribute {p:r_out[0]} {PAP_IO_LOC} {K17}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 666)] | Port r_out[0] has been placed at location K17, whose type is share pin.
+
+define_attribute {p:iic_sda} {PAP_IO_UNUSED} {TRUE}
+
+	W: ConstraintEditor-4031: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 300)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {V20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 793)] | Port iic_sda has been placed at location V20, whose type is share pin.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_UNUSED} {TRUE}
+
+	W: ConstraintEditor-4031: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 307)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_scl} {PAP_IO_UNUSED} {TRUE}
+
+	W: ConstraintEditor-4031: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 328)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {V19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 821)] | Port iic_scl has been placed at location V19, whose type is share pin.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_UNUSED} {TRUE}
+
+	W: ConstraintEditor-4031: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 335)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {AB18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 723)] | Port g_in[5] has been placed at location AB18, whose type is share pin.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {AA18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 728)] | Port g_in[4] has been placed at location AA18, whose type is share pin.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {AB19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 733)] | Port g_in[3] has been placed at location AB19, whose type is share pin.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {V17}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 743)] | Port g_in[1] has been placed at location V17, whose type is share pin.
+
+define_attribute {p:b_out[2]} {PAP_IO_LOC} {T21}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 540)] | Port b_out[2] has been placed at location T21, whose type is share pin.
+
+define_attribute {p:g_out[0]} {PAP_IO_LOC} {M21}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 610)] | Port g_out[0] has been placed at location M21, whose type is share pin.
+
+define_attribute {p:r_out[6]} {PAP_IO_LOC} {H22}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 624)] | Port r_out[6] has been placed at location H22, whose type is share pin.
+
+define_attribute {p:r_out[5]} {PAP_IO_LOC} {H21}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 631)] | Port r_out[5] has been placed at location H21, whose type is share pin.
+
+define_attribute {p:g_in[2]} {PAP_IO_LOC} {W18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 738)] | Port g_in[2] has been placed at location W18, whose type is share pin.
+
+define_attribute {p:pixclk_out} {PAP_IO_LOC} {M22}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 835)] | Port pixclk_out has been placed at location M22, whose type is share pin.
+
+define_attribute {p:pixclk_in} {PAP_IO_LOC} {AA12}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 866)] | Port pixclk_in has been placed at location AA12, whose type is share pin.
+
+define_attribute {p:da_data[7]} {PAP_IO_LOC} {AB13}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 928)] | Port da_data[7] has been placed at location AB13, whose type is share pin.
+
+define_attribute {p:da_data[6]} {PAP_IO_LOC} {Y13}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 935)] | Port da_data[6] has been placed at location Y13, whose type is share pin.
+
+define_attribute {p:eth_rst_n_0} {PAP_IO_LOC} {B20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1031)] | Port eth_rst_n_0 has been placed at location B20, whose type is share pin.
+
+define_attribute {p:eth_rgmii_tx_ctl_0} {PAP_IO_LOC} {B18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1038)] | Port eth_rgmii_tx_ctl_0 has been placed at location B18, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_0[1]} {PAP_IO_LOC} {D17}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1059)] | Port eth_rgmii_txd_0[1] has been placed at location D17, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_0[2]} {PAP_IO_LOC} {C18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1066)] | Port eth_rgmii_txd_0[2] has been placed at location C18, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_0[3]} {PAP_IO_LOC} {A18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1073)] | Port eth_rgmii_txd_0[3] has been placed at location A18, whose type is share pin.
+
+define_attribute {p:eth_rgmii_rxd_1[3]} {PAP_IO_LOC} {F18}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1108)] | Port eth_rgmii_rxd_1[3] has been placed at location F18, whose type is share pin.
+
+define_attribute {p:eth_rst_n_1} {PAP_IO_LOC} {F19}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1114)] | Port eth_rst_n_1 has been placed at location F19, whose type is share pin.
+
+define_attribute {p:eth_rgmii_tx_ctl_1} {PAP_IO_LOC} {F22}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1121)] | Port eth_rgmii_tx_ctl_1 has been placed at location F22, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_1[1]} {PAP_IO_LOC} {E20}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1142)] | Port eth_rgmii_txd_1[1] has been placed at location E20, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_1[2]} {PAP_IO_LOC} {E22}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1149)] | Port eth_rgmii_txd_1[2] has been placed at location E22, whose type is share pin.
+
+define_attribute {p:eth_rgmii_txd_1[3]} {PAP_IO_LOC} {F21}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1156)] | Port eth_rgmii_txd_1[3] has been placed at location F21, whose type is share pin.
+
+define_attribute {p:mem_dq[14]} {PAP_IO_LOC} {P3}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1410)] | Port mem_dq[14] has been placed at location P3, whose type is share pin.
+
+define_attribute {p:mem_dq[11]} {PAP_IO_LOC} {M1}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1431)] | Port mem_dq[11] has been placed at location M1, whose type is share pin.
+
+define_attribute {p:mem_dq[9]} {PAP_IO_LOC} {M2}
+
+	C: ConstraintEditor-2002: [C:/Users/86151/Desktop/competition_new/competition_file/prj5/source/fdc/top5.fdc(line number: 1445)] | Port mem_dq[9] has been placed at location M2, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+
+get_clocks pixclk_out
+	C: SDC-2017: Nothing implicitly matched 'pixclk_out'.
+
+get_clocks pix_clk
+	C: SDC-2017: Nothing implicitly matched 'pix_clk'.
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+
